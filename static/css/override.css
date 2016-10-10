@@ -1,0 +1,21 @@
+section.main .container .content .post-item {
+  list-style: none;
+}
+
+section.main .content .markdown figure {
+  text-align: center;
+}
+
+section.main .content .markdown figcaption p {
+  font-size: 0.8rem;
+}
+
+section.main .content .markdown ul > li,
+section.main .content .markdown ol > li {
+  list-style-position: outside;
+  margin-left: 2em;
+}
+
+section.main .content .markdown ol > li {
+  list-style-type: decimal;
+}
