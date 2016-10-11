@@ -9,6 +9,8 @@ builddrafts = false
 
 theme = "cocoa"
 
+googleAnalytics = "UA-27539053-1"
+
 [permalinks]
 fixed = ":title/"
 blog = ":year/:month/:slug/"
