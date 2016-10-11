@@ -1,3 +1,7 @@
+section.header .name {
+  font-size: 24px;
+}
+
 section.main .container .content .post-item {
   list-style: none;
 }
