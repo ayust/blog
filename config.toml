@@ -3,7 +3,6 @@ languageCode = "en-us"
 title = "Works by Default"
 author = "Amber Yust"
 
-pygmentsuseclasses = true
 publishdir = "public"
 builddrafts = false
 
