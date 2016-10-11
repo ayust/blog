@@ -22,7 +22,7 @@ Lang = "en"
 Twitter = "https://twitter.com/aiiane"
 DateForm = "Jan 2, 2006"
 DateFormFull = "Mon Jan 2 2006 15:04:05 MST"
-Description = "A blog."
+Description = "Works by Default: Writing by Amber Yust"
 HighlightJS = true
 
 [taxonomies]
