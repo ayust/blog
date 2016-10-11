@@ -7,6 +7,6 @@ title = "about"
 her line of work: to make software, systems, and processes that will do that right thing
 if left to their own devices.
 
-Entries from 2009-2010 were originally published on *Up Past Midnight*, her previous (and now
-defunct) blog. Amber also occasionally writes on [Medium](https://medium.com/@aiiane)
-and [Google+](https://plus.google.com/116797686750161798768).
+[Entries from 2009-2010](/tags/up-past-midnight) were originally published on *Up Past Midnight*,
+her previous (and now defunct) blog. Amber also occasionally writes on
+[Medium](https://medium.com/@aiiane) and [Google+](https://plus.google.com/116797686750161798768).
